@@ -7,8 +7,10 @@
 
 ## Block Diagram
 ![Block Diagram 1](screenshots/lab3_blockdiagram_1.jpg)
+Block diagram showing decoder_top implementation.
 
 ![Block Diagram 2](screenshots/lab3_blockdiagram_2.jpg)
+Block diagram showing decoder_3_8 implementation.
 
 ## VHDL Solution 
 ![1](screenshots/lab3_vhdl_1.png)
