@@ -6,7 +6,9 @@
 * 10.F
 
 ## Block Diagram
-![Block Diagram](screenshots/lab3_blockdiagram.JPG)
+![Block Diagram 1](screenshots/lab3_blockdiagram_1.jpg)
+
+![Block Diagram 2](screenshots/lab3_blockdiagram_2.jpg)
 
 ## VHDL Solution 
 ![1](screenshots/lab3_vhdl_1.png)
