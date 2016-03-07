@@ -6,7 +6,7 @@
 * 10.F
 
 ## Block Diagram
-![Block Diagram 1](screenshots/lab3_blockdiagram_1.jpg)
+![Block Diagram 1](screenshots/lab3_blockdiagram_1.JPG)
 Block diagram showing decoder_top implementation.
 
 ![Block Diagram 2](screenshots/lab3_blockdiagram_2.jpg)
