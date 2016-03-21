@@ -6,10 +6,10 @@
 * 12.10.c
 
 ## Answers to prep questions
-![Answers](screenshots/prep.JPG)
+![Answers](screenshots/prep.jpg)
 
 ## Kmaps and simplification for D flip flops
-![Kmaps](screenshots/simplification.JPG)
+![Kmaps](screenshots/simplification.jpg)
 
 ## Circuit Screenshot
 ![SimuAid Circuit](screenshots/circuitlab4.png)
