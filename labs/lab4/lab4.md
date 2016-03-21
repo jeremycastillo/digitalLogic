@@ -6,7 +6,7 @@
 * 12.10.c
 
 ### Answers to prep questions
-![Answers](screenshots/prep.JPG)
+![Answers](screenshots/1.JPG)
 
 ### Kmaps and simplification for D flip flops
 ![Kmaps](screenshots/simplification.JPG)
