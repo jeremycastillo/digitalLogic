@@ -48,6 +48,10 @@ Chosen state assignment reduced equations by logic aid. Match ones above by hand
 
 ![Wave 1](screenshots/wave1.png)
 
+![Wave 1 Mark](screenshots/wave1mark.JPG)
+
 ![Wave 2](screenshots/wave2.png)
+
+![Wave 2 Mark](screenshots/wave2mark.JPG)
 
 ![Lab 5 Circuit](screenshots/lab5circuit.png)
