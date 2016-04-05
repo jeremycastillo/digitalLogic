@@ -14,9 +14,13 @@ This state graph is for the case where the output is not complemented. So each o
 
 ![State Table by Hand](screenshots/IMG_0415.JPG)
 
+State table with correct outputs for given problem.
+
 ![State Table in Logic Aid](screenshots/logicAidStateTable.png)
 
 ![State Table Verification in Logic Aid](screenshots/logicAidVerification.png)
+
+State table entered in logic aid passes test.
 
 ![Binary Assignment By Hand](screenshots/IMG_0417.JPG)
 
