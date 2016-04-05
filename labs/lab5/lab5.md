@@ -34,7 +34,7 @@ State Assignment by hand.
 
 ![Chosen State Assignment Logic Aid](screenshots/logicAidEquationS.png)
 
-![Experimental Transition Table](screenshots/IMG_4022.JPG)
+![Experimental Transition Table](screenshots/IMG_0422.JPG)
 
 ![Output Sequences](screenshots/IMG_0424.JPG)
 
