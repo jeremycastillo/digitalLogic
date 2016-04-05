@@ -32,7 +32,11 @@ State Assignment by hand.
 
 ![Binary Assignment Logic Aid](screenshots/logicAidEquationB.png)
 
+Binary assignment reduced equations by logic aid. Match ones above by hand.
+
 ![Chosen State Assignment Logic Aid](screenshots/logicAidEquationS.png)
+
+Chosen state assignment reduced equations by logic aid. Match ones above by hand.
 
 ![Experimental Transition Table](screenshots/IMG_0422.JPG)
 
