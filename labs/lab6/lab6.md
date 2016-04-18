@@ -7,7 +7,7 @@
 
 ![Lab 6.1](screenshots/lab6_1.JPG)
 
-![Lab 6.1](screenshots/lab6_1_BD.jpeg)
+![Lab 6.1](screenshots/lab6_1_BD.jpg)
 
 ![Lab 6.2](screenshots/lab6_2_t1.JPG)
 
